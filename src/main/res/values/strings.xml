@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">project02</string>
-
-    <integer name="USER_ID_KEY">0</integer>
-
-
+    <string name="app_name">GymLog V SP22</string>
+    <string name="mainExerciseHint">Enter Exercise</string>
+    <string name="mainWeightHint">Enter Weight</string>
+    <string name="mainRepsHint">Enter Reps</string>
+    <string name="mainSubmitButton">Submit</string>
+    <string name="Login" />
 </resources>
