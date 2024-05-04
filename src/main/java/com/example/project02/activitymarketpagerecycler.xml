@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout>
+    <!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    tools:context=".MarketPage">-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/marketDisplay"-->
+<!--        android:layout_width="202dp"-->
+<!--        android:layout_height="45dp"-->
+<!--        android:text="Music Market"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textSize="33sp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.497"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.04" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/logoutBtn"-->
+<!--        android:layout_width="68dp"-->
+<!--        android:layout_height="36dp"-->
+<!--        android:text="Logout"-->
+<!--        android:textSize="8sp"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/cartBtn"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.997"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        tools:ignore="MissingConstraints" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/cartBtn"-->
+<!--        android:layout_width="69dp"-->
+<!--        android:layout_height="37dp"-->
+<!--        android:layout_marginTop="32dp"-->
+<!--        android:text="Cart"-->
+<!--        android:textSize="9sp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.997"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.072"-->
+<!--    />-->
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/marketRecyclerView"-->
+<!--        android:layout_width="409dp"-->
+<!--        android:layout_height="657dp"-->
+<!--        android:layout_marginTop="76dp"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

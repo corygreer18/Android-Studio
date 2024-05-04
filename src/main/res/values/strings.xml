@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project02</string>
+
+    <integer name="USER_ID_KEY">0</integer>
+
+
+</resources>
