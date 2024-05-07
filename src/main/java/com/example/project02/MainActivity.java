@@ -1,5 +1,5 @@
 /*
-* Hi so when i created this activity I was a little confused on how to use room database
+* so when i created this activity I was a little confused on how to use room database
 * i spent a lot of time trying to figure it out but this is the best I could come up with.
 * I think it runs I went to test it and my computer froze each time, i do not think it like android very much.
 * I tried multiple emulators but that did not seem to help either.
